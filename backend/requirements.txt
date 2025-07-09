@@ -1,0 +1,6 @@
+txt
+CopyEdit
+fastapi
+uvicorn
+pydantic
+
